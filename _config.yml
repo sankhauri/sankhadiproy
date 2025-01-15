@@ -1,2 +1,5 @@
-title: Portfolio
-theme: jekyll-theme-minimal
+title: My Website
+description: A brief description of my website
+baseurl: "" # Leave empty for GitHub Pages
+url: #"https://<your-username>.github.io"
+theme: jekyll-theme-cayman
